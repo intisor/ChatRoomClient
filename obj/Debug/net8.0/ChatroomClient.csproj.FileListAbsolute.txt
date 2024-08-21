@@ -1,0 +1,14 @@
+C:\Users\MY PC\Desktop\Coded\ChatroomClient\bin\Debug\net8.0\ChatroomClient.exe
+C:\Users\MY PC\Desktop\Coded\ChatroomClient\bin\Debug\net8.0\ChatroomClient.deps.json
+C:\Users\MY PC\Desktop\Coded\ChatroomClient\bin\Debug\net8.0\ChatroomClient.runtimeconfig.json
+C:\Users\MY PC\Desktop\Coded\ChatroomClient\bin\Debug\net8.0\ChatroomClient.dll
+C:\Users\MY PC\Desktop\Coded\ChatroomClient\bin\Debug\net8.0\ChatroomClient.pdb
+C:\Users\MY PC\Desktop\Coded\ChatroomClient\obj\Debug\net8.0\ChatroomClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MY PC\Desktop\Coded\ChatroomClient\obj\Debug\net8.0\ChatroomClient.AssemblyInfoInputs.cache
+C:\Users\MY PC\Desktop\Coded\ChatroomClient\obj\Debug\net8.0\ChatroomClient.AssemblyInfo.cs
+C:\Users\MY PC\Desktop\Coded\ChatroomClient\obj\Debug\net8.0\ChatroomClient.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\Desktop\Coded\ChatroomClient\obj\Debug\net8.0\ChatroomClient.dll
+C:\Users\MY PC\Desktop\Coded\ChatroomClient\obj\Debug\net8.0\refint\ChatroomClient.dll
+C:\Users\MY PC\Desktop\Coded\ChatroomClient\obj\Debug\net8.0\ChatroomClient.pdb
+C:\Users\MY PC\Desktop\Coded\ChatroomClient\obj\Debug\net8.0\ChatroomClient.genruntimeconfig.cache
+C:\Users\MY PC\Desktop\Coded\ChatroomClient\obj\Debug\net8.0\ref\ChatroomClient.dll
